@@ -53,3 +53,5 @@ class Index extends Base
 [华为云文字识别](https://support.huaweicloud.com/ocr/index.html)
 [SDK简介](https://support.huaweicloud.com/sdkreference-ocr/ocr_04_0016.html)
 [API概览](https://support.huaweicloud.com/api-ocr/ocr_03_0047.html)
+
+作者联系方式：shycomet@163.com
